@@ -11,5 +11,6 @@ Este repositório contém os arquivos necessários para rodar o **Vaultwarden** 
 ### 1. Clone este repositório
 
 ```bash
-git clone https://github.com/seu-usuario/bitwarden-docker.git
-cd bitwarden-docker
+mkdir valt
+cd valt
+nano docker-compose.yml
