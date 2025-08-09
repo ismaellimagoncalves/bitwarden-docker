@@ -8,7 +8,7 @@ Este repositório contém os arquivos necessários para rodar o **Vaultwarden** 
 
 ## 🚀 Como usar
 
-### 1. Clone este repositório
+### 1. uses os comandos abaixo
 
 ```bash
 mkdir valt
